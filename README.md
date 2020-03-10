@@ -13,3 +13,11 @@
 [Awesome-Windows](https://github.com/Awesome-Windows/Awesome)
 
 [Awesome PHP](https://github.com/ziadoz/awesome-php)
+
+[awesome nodejs](https://github.com/sindresorhus/awesome-nodejs)
+
+[Awesome Laravel](https://github.com/chiraggude/awesome-laravel)
+
+[Awesome Python](https://github.com/vinta/awesome-python)
+
+[Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
